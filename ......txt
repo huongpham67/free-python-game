@@ -1,0 +1,6 @@
+py -m freegames.snake
+
+
+py -m freegames.pacman
+
+py -m freegames.flappy
